@@ -1,6 +1,6 @@
 "use client";
 import { useEffect, useState } from "react";
-import { Post } from "../types/post";
+import { Post } from "@/app/types/post";
 
 const Old = () => {
   const [posts, setPost] = useState<Post[]>([]);
