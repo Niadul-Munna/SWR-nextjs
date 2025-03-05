@@ -1,9 +1,11 @@
-import Old from "./components/old";
+import Old from "@/app/components/old";
+import Posts from "@/app/components/posts";
 
 export default function Home() {
   return (
     <div>
-      <Old />
+      {/* <Old /> */}
+      <Posts />
     </div>
   );
 }
