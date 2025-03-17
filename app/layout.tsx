@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SWR-Next Js ",
+  title: "SWR-Next Js",
   description: "SWR-Next Js learning time",
 };
 
